@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vip2ip.github.io/posts/my-first-post/</loc>
-    <lastmod>2024-01-14T19:57:39+02:00</lastmod>
-  </url><url>
     <loc>https://vip2ip.github.io/</loc>
-    <lastmod>2024-01-14T19:57:39+02:00</lastmod>
+    <lastmod>2024-02-28T12:02:49+02:00</lastmod>
+  </url><url>
+    <loc>https://vip2ip.github.io/tags/case/</loc>
+    <lastmod>2024-02-28T12:02:49+02:00</lastmod>
   </url><url>
     <loc>https://vip2ip.github.io/tags/chatbots/</loc>
-    <lastmod>2024-01-14T19:57:39+02:00</lastmod>
+    <lastmod>2024-02-28T12:02:49+02:00</lastmod>
   </url><url>
     <loc>https://vip2ip.github.io/tags/development/</loc>
-    <lastmod>2024-01-14T19:57:39+02:00</lastmod>
+    <lastmod>2024-02-28T12:02:49+02:00</lastmod>
   </url><url>
     <loc>https://vip2ip.github.io/posts/</loc>
-    <lastmod>2024-01-14T19:57:39+02:00</lastmod>
+    <lastmod>2024-02-28T12:02:49+02:00</lastmod>
   </url><url>
     <loc>https://vip2ip.github.io/tags/</loc>
-    <lastmod>2024-01-14T19:57:39+02:00</lastmod>
+    <lastmod>2024-02-28T12:02:49+02:00</lastmod>
   </url><url>
     <loc>https://vip2ip.github.io/tags/telegram/</loc>
+    <lastmod>2024-02-28T12:02:49+02:00</lastmod>
+  </url><url>
+    <loc>https://vip2ip.github.io/posts/post1/</loc>
+    <lastmod>2024-02-28T12:02:49+02:00</lastmod>
+  </url><url>
+    <loc>https://vip2ip.github.io/posts/post2/</loc>
+    <lastmod>2024-01-15T12:02:49+02:00</lastmod>
+  </url><url>
+    <loc>https://vip2ip.github.io/posts/post0/</loc>
     <lastmod>2024-01-14T19:57:39+02:00</lastmod>
   </url>
 </urlset>
